@@ -1,2 +1,12 @@
-# tallui-art
-TallUI Art - Assets and graphical components for TallUI
+<p align="center">
+    <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo.svg">
+</p>
+<p align="center" style="font-size:15pt">
+    <strong>TALL</strong>UI
+</p>
+
+# TallUI Art
+
+This repository contains assets and art-files for TallUI, an UI built for Laravel and the TALL-Stack. 
+
+There may be more information about fonts, colors and anything design soon...
