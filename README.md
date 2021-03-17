@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="./art/logo.svg">
+    <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo.svg">
 </p>
 <p align="center" style="font-size:15pt">
-    TALL<strong>UI</strong>
+    <strong>TALL</strong>UI
 </p>
 
 # TallUI Art
 
-This repository contains assets and art-files for TallUI, a UI built for Laravel and the TALL-Stack. 
+This repository contains assets and art-files for TallUI, an UI built for Laravel and the TALL-Stack. 
 
 There may be more information about fonts, colors and anything design soon...
