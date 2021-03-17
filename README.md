@@ -1,5 +1,5 @@
 <p align="center">
-    <a href"https://tallui.io"><img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo-gh.png"></a>
+        <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo-gh.png" />
 </p>
 
 # TallUI Art
