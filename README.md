@@ -1,8 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo.svg">
-</p>
-<p align="center" style="font-size:15pt">
-    <strong>TALL</strong>UI
+    <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo-gh.png">
 </p>
 
 # TallUI Art
